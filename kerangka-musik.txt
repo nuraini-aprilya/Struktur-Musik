@@ -1,7 +1,11 @@
 KERANGKA MUSIK
 
 - Introduction/Intro
+  a. Musik pada Intro biasanya berupa alunan musik instrumental atau sound effect.
+  b. Lirik dalam Intro bisa berupa cuplikan dialog dari sebuah scene film
 - Verse
+  a.Musik untuk bagian Verse merupakan pola musik pertama dalam lagu (bentuk A).
+  b. Verse biasanya memuat lirik yang mengandung deskripsi dari pesan lagu atau menceritakan latar belakang pesan lagu.
 - Refrain
 - Pre-Chorus
 - Chorus
