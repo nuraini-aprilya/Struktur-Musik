@@ -3,3 +3,5 @@ a. Intro dalam lagu digunakan untuk mengawali sebuah lagu, karena itu penempatan
 b. Verse dapat diartikan sebagai Bait dalam bahasa Indonesia.
 c. Refrain adalah bagian lagu yang memiliki definisi: Satu atau dua baris lirik/melodi yang dituliskan sama (pola musik dan lirik) pada akhir setiap verse (bait).
 d. Pre-Chorus adalah bagian lagu yang dibuat untuk mengawali Chorus.
+e. Chorus adalah bagian puncak/klimaks dari sebuah lagu.
+f. Bagian bridge diletakkan setelah chorus kedua atau setelah interlude. 
